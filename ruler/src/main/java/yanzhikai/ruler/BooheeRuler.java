@@ -77,6 +77,11 @@ public class BooheeRuler extends ViewGroup {
     //刻度乘积因子
     private float mFactor = 0.1f;
 
+    /**
+     * 添加一行注释，测试sourcetree功能
+     * @param context
+     */
+
 
     public BooheeRuler(Context context) {
         super(context);
